@@ -41,6 +41,7 @@ Nguồn evidence: `classification_predictions.json`, sample `traffic`.
 
 - Nếu ảnh có nhiều chủ thể, guideline cần quy định điều gì?
 
+
 - Vì sao model score không phải ground truth?
     bản chất của score là xác suất, thể hiện độ tin tưởng cẩu models dựa trên các mẫu đã học,
     ground truth là do con người kiểm định dựa trên ngữ cảnh thực tế
